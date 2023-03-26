@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/mahmoudgawish/IdeaProjects/demoblazeTest">
+        <classes>
+            <class name="end_to_end.RegisterAndLoginTest">
+                <methods>
+                    <include name="test_signUp_Successfully"/>
+                    <include name="test_signUp_userAlreadyExist"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,10 @@
+{
+  "userName": "randomUser3344",
+  "password": "11223344",
+  "userAlreadyExist" :"This user already exist.",
+  "successfulSignUpText": "Sign up successful.",
+  "wrongPassword" : "112233442332",
+  "wrongPasswordText" : "Wrong password.",
+  "wrongUser": "randfere3",
+  "wrongUserMessage" : "User does not exist."
+}
